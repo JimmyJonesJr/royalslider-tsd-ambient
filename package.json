@@ -1,0 +1,15 @@
+{
+  "name": "retyped-royalslider-tsd-ambient",
+  "description": "TypeScript typings for royalslider",
+  "version": "9.4.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/royalslider-tsd-ambient",
+  "typescript": {
+    "definition": "royalslider.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
